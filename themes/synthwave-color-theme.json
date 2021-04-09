@@ -140,6 +140,7 @@
     "minimapGutter.addedBackground": "#09f7a099",
     "minimapGutter.modifiedBackground": "#b893ce",
     "minimapGutter.deletedBackground": "#fe4450",
+    "minimap.background": "#2a1f35",
     "breadcrumbPicker.background": "#232530"
   },
   "tokenColors": [

@@ -38,15 +38,26 @@
 /* Add the subtle gradient to the editor background */
 .monaco-editor {
   background-color: transparent !important;
-  background-image: linear-gradient(to bottom, #2a2139 75%, #34294f);
+  background-image: linear-gradient(to bottom, #2a2139 50%, #1b3257);
   background-size: auto 100vh;
   background-position: top;
   background-repeat: no-repeat;
 }
 
+.monaco-breadcrumbs {
+  background-color: transparent !important;
+}
+
 /* Sweet sunset dots */
 .monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {
   background: linear-gradient(to bottom, #fff951 25%, #fc28a8);
+}
+
+/* Inactive tab neon */
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit {
+  background-color: transparent !important;
+  background-image: radial-gradient(circle, rgb(156 65 149 / 17%) 0%, rgba(50,9,121,0) 100%, rgb(99 7 87 / 22%) 100%);
+  position: relative;
 }
 
 /* Active tab neon */
