@@ -144,3 +144,17 @@
   height: 1em;
   display: inline-block
 }
+
+
+.editor-instance .monaco-inputbox .ibwrapper .input {
+  box-shadow: 0 0 3px #7146bb;
+}
+
+
+div.settings-body div.setting-item .monaco-select-box {
+  box-shadow: 0 0 3px #7146bb;
+}
+
+div.settings-body div.setting-item .setting-value-checkbox {
+  box-shadow: 0 0 3px #7146bb;
+}

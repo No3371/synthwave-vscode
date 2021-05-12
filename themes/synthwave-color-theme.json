@@ -11,7 +11,7 @@
     "textLink.activeForeground": "#ff7edb",
     "textLink.foreground": "#f97e72",
     "button.background": "#614D85",
-    "dropdown.background": "#232530",
+    "dropdown.background": "#2a2139",
     "dropdown.listBackground": "#2a2139",
     "input.background": "#2a2139",
     "inputOption.activeBorder": "#ff7edb99",
@@ -153,8 +153,7 @@
         "string.quoted.docstring.multi.python punctuation.definition.string.end.python"
       ],
       "settings": {
-        "foreground": "#848bbd",
-        "fontStyle": "italic"
+        "foreground": "#848bbd"
       }
     },
     {
